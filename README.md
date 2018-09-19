@@ -1,2 +1,2 @@
-# I-Code-Programing
+# MyCodingChallenge
 Coding gets fun and better; here to record my learning exercise.
